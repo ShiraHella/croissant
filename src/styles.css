@@ -1,3 +1,28 @@
 body {
-  background-color: bisque;
+  background: #fddedd;
+}
+
+h1 {
+  text-align: center;
+  color: #967d7c;
+}
+
+p {
+  text-align: center;
+  line-height: 1.5;
+  font-size: 18px;
+  color: #715d5d;
+}
+
+a {
+  color: #908e8e;
+  text-decoration: none;
+}
+.footer {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0, auto;
 }
